@@ -1,5 +1,5 @@
 # SOAP-WebService
- Demo Project for Soap web services
+ Demo Project for Soap web services to understand how SOAP webservices are served and how they are consumed by clients.
 
 1.Run the soapws(server) project
 2.Run the csoapws(client) project
